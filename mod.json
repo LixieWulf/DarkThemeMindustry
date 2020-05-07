@@ -1,0 +1,5 @@
+name: dark-theme
+displayName: "Dark Theme"
+author:
+minGameVersion: "103"
+hidden: true
